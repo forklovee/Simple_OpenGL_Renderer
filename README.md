@@ -1,4 +1,4 @@
-# Zeldalike in OpenGL
+# Simple OpenGL Engine
 
 <b>Not finished yet.</b>
 

@@ -1,4 +1,4 @@
-# Simple OpenGL Engine
+# Simple OpenGL Renderer
 
 <b>Not finished yet.</b>
 

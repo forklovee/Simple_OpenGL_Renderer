@@ -1,7 +1,5 @@
 # Simple OpenGL Renderer
 
-<b>Not finished yet.</b>
-
 It's my learning ground for C++, OpenGL, GLAD, GLFW and CMake.
 
 Will see how it goes.
